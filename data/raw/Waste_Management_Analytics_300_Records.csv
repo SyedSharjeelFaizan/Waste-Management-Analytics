@@ -1,0 +1,301 @@
+Year,State,Waste_Type,Waste_Generated_TPD,Waste_Collected_TPD,Waste_Treated_TPD,Waste_Recycled_TPD
+2020,Telangana,Organic,1729.55,1322.28,1012.25,391.75
+2020,Telangana,Plastic,696.61,518.12,327.64,154.18
+2020,Telangana,Paper,511.33,394.37,263.71,145.25
+2020,Telangana,Glass,368.66,280.97,182.53,116.52
+2020,Telangana,Metal,297.54,225.06,156.09,97.7
+2020,Telangana,Textile,347.13,249.45,148.23,44.57
+2020,Telangana,E-Waste,211.05,142.07,78.83,40.41
+2020,Telangana,Construction,410.74,279.93,164.27,34.08
+2020,Telangana,Biomedical,147.54,108.88,67.0,17.29
+2020,Telangana,Other,356.65,249.76,157.93,31.5
+2020,Maharashtra,Organic,2425.02,2107.16,1759.72,658.4
+2020,Maharashtra,Plastic,998.45,854.62,589.09,285.86
+2020,Maharashtra,Paper,731.14,636.78,464.81,258.83
+2020,Maharashtra,Glass,473.52,408.14,282.51,182.88
+2020,Maharashtra,Metal,408.74,354.36,272.64,168.23
+2020,Maharashtra,Textile,497.51,402.89,258.31,78.57
+2020,Maharashtra,E-Waste,279.72,210.94,131.08,74.29
+2020,Maharashtra,Construction,586.38,452.4,298.11,60.18
+2020,Maharashtra,Biomedical,210.59,174.88,122.0,29.82
+2020,Maharashtra,Other,482.41,381.48,261.2,47.47
+2020,Kerala,Organic,1340.4,1222.26,1062.15,425.28
+2020,Kerala,Plastic,520.85,463.3,343.61,156.47
+2020,Kerala,Paper,375.89,335.57,270.6,149.82
+2020,Kerala,Glass,249.41,228.16,170.31,98.61
+2020,Kerala,Metal,220.71,194.59,161.95,106.41
+2020,Kerala,Textile,263.52,219.79,150.86,41.81
+2020,Kerala,E-Waste,143.96,114.14,73.97,39.55
+2020,Kerala,Construction,303.94,248.41,169.95,34.63
+2020,Kerala,Biomedical,110.13,95.96,70.53,19.01
+2020,Kerala,Other,259.82,216.75,157.94,28.34
+2020,Karnataka,Organic,1913.83,1591.31,1274.97,471.04
+2020,Karnataka,Plastic,857.19,683.79,486.74,255.61
+2020,Karnataka,Paper,574.73,473.55,343.27,175.13
+2020,Karnataka,Glass,387.6,313.25,220.26,117.63
+2020,Karnataka,Metal,354.93,292.58,214.58,135.97
+2020,Karnataka,Textile,385.3,297.24,184.9,54.08
+2020,Karnataka,E-Waste,231.68,163.78,103.41,53.97
+2020,Karnataka,Construction,428.45,315.49,204.12,42.27
+2020,Karnataka,Biomedical,164.48,130.52,88.09,22.29
+2020,Karnataka,Other,405.27,304.31,203.48,35.59
+2020,Tamil Nadu,Organic,2267.12,1911.18,1580.59,562.17
+2020,Tamil Nadu,Plastic,915.46,758.01,536.0,268.5
+2020,Tamil Nadu,Paper,647.37,547.21,397.54,225.75
+2020,Tamil Nadu,Glass,450.2,373.28,259.95,155.19
+2020,Tamil Nadu,Metal,369.82,306.76,232.3,157.32
+2020,Tamil Nadu,Textile,443.54,351.9,222.81,63.27
+2020,Tamil Nadu,E-Waste,255.81,183.75,112.63,57.22
+2020,Tamil Nadu,Construction,539.24,401.2,264.06,50.98
+2020,Tamil Nadu,Biomedical,197.35,158.16,110.21,27.49
+2020,Tamil Nadu,Other,426.92,329.59,226.01,41.18
+2020,Rajasthan,Organic,1461.39,929.39,627.4,235.54
+2020,Rajasthan,Plastic,586.98,367.03,204.89,100.08
+2020,Rajasthan,Paper,414.93,262.92,152.86,78.81
+2020,Rajasthan,Glass,303.87,188.28,105.78,68.05
+2020,Rajasthan,Metal,264.2,163.98,102.95,63.57
+2020,Rajasthan,Textile,307.2,178.7,92.96,29.45
+2020,Rajasthan,E-Waste,165.01,89.74,45.05,25.2
+2020,Rajasthan,Construction,336.32,188.76,98.85,20.22
+2020,Rajasthan,Biomedical,128.98,77.89,43.44,11.17
+2020,Rajasthan,Other,307.66,175.45,96.74,17.8
+2020,Uttar Pradesh,Organic,2674.38,1518.56,903.03,354.18
+2020,Uttar Pradesh,Plastic,1112.72,620.08,308.19,157.76
+2020,Uttar Pradesh,Paper,769.02,429.02,230.0,127.74
+2020,Uttar Pradesh,Glass,536.55,298.09,152.24,94.58
+2020,Uttar Pradesh,Metal,493.65,275.2,149.76,92.44
+2020,Uttar Pradesh,Textile,586.58,306.12,143.78,46.24
+2020,Uttar Pradesh,E-Waste,319.19,155.07,70.33,37.37
+2020,Uttar Pradesh,Construction,662.48,332.35,160.52,34.99
+2020,Uttar Pradesh,Biomedical,243.04,130.37,64.0,15.97
+2020,Uttar Pradesh,Other,547.36,278.19,141.4,23.63
+2020,Gujarat,Organic,1893.65,1687.74,1460.7,558.62
+2020,Gujarat,Plastic,811.45,705.28,493.11,228.63
+2020,Gujarat,Paper,549.31,492.93,365.87,209.69
+2020,Gujarat,Glass,406.08,358.59,258.09,149.8
+2020,Gujarat,Metal,299.74,268.44,201.56,122.18
+2020,Gujarat,Textile,396.08,324.93,214.71,58.33
+2020,Gujarat,E-Waste,220.67,170.58,107.56,57.82
+2020,Gujarat,Construction,435.4,345.59,236.5,41.57
+2020,Gujarat,Biomedical,165.53,143.72,101.77,23.43
+2020,Gujarat,Other,358.22,287.34,207.3,38.73
+2020,Odisha,Organic,1096.5,730.73,530.88,209.66
+2020,Odisha,Plastic,460.69,298.57,178.87,87.68
+2020,Odisha,Paper,341.81,221.98,143.47,75.09
+2020,Odisha,Glass,223.37,146.41,90.59,54.23
+2020,Odisha,Metal,189.48,123.84,80.66,50.0
+2020,Odisha,Textile,223.5,140.08,77.9,22.02
+2020,Odisha,E-Waste,134.17,77.87,41.74,24.68
+2020,Odisha,Construction,262.99,160.92,87.97,18.37
+2020,Odisha,Biomedical,95.69,61.86,37.06,9.16
+2020,Odisha,Other,231.59,140.75,83.82,15.11
+2020,West Bengal,Organic,2132.22,1524.34,1103.95,423.87
+2020,West Bengal,Plastic,904.66,637.73,391.12,168.57
+2020,West Bengal,Paper,609.64,429.23,275.35,149.57
+2020,West Bengal,Glass,432.48,312.97,190.3,110.29
+2020,West Bengal,Metal,369.85,265.6,174.32,102.67
+2020,West Bengal,Textile,415.09,277.2,154.83,45.8
+2020,West Bengal,E-Waste,252.59,153.51,85.71,51.38
+2020,West Bengal,Construction,504.57,329.4,180.91,37.34
+2020,West Bengal,Biomedical,187.53,128.51,78.88,19.16
+2020,West Bengal,Other,433.91,289.31,168.85,31.26
+2021,Telangana,Organic,1688.5,1310.88,1002.38,407.56
+2021,Telangana,Plastic,720.73,549.2,357.51,179.54
+2021,Telangana,Paper,516.23,404.5,269.1,148.44
+2021,Telangana,Glass,355.48,275.84,175.37,101.82
+2021,Telangana,Metal,311.73,240.45,164.47,105.53
+2021,Telangana,Textile,370.92,274.87,160.7,49.16
+2021,Telangana,E-Waste,222.8,149.47,85.19,48.95
+2021,Telangana,Construction,420.55,295.38,179.57,37.05
+2021,Telangana,Biomedical,158.16,119.04,73.7,19.39
+2021,Telangana,Other,364.8,264.11,166.77,29.22
+2021,Maharashtra,Organic,2402.93,2164.1,1786.53,723.6
+2021,Maharashtra,Plastic,1059.69,905.22,643.66,312.01
+2021,Maharashtra,Paper,759.22,658.77,492.23,298.82
+2021,Maharashtra,Glass,576.06,511.75,360.57,208.89
+2021,Maharashtra,Metal,451.51,396.62,301.22,202.97
+2021,Maharashtra,Textile,535.93,440.75,289.95,87.85
+2021,Maharashtra,E-Waste,302.68,236.39,146.1,77.74
+2021,Maharashtra,Construction,581.31,462.06,302.31,59.0
+2021,Maharashtra,Biomedical,236.38,203.26,139.63,34.35
+2021,Maharashtra,Other,544.29,442.22,302.53,55.61
+2021,Kerala,Organic,1369.26,1309.91,1132.44,441.58
+2021,Kerala,Plastic,531.16,490.98,351.53,163.89
+2021,Kerala,Paper,411.12,378.79,293.28,161.11
+2021,Kerala,Glass,260.85,241.39,182.16,121.0
+2021,Kerala,Metal,239.95,221.19,178.32,120.1
+2021,Kerala,Textile,295.34,260.44,174.83,53.59
+2021,Kerala,E-Waste,151.32,119.88,81.06,44.67
+2021,Kerala,Construction,307.29,257.1,177.98,35.81
+2021,Kerala,Biomedical,117.97,105.9,77.26,19.91
+2021,Kerala,Other,269.48,223.88,164.98,28.18
+2021,Karnataka,Organic,1932.1,1623.51,1356.42,508.81
+2021,Karnataka,Plastic,843.24,679.94,478.61,210.57
+2021,Karnataka,Paper,578.53,486.58,358.33,201.01
+2021,Karnataka,Glass,427.58,360.18,246.42,152.64
+2021,Karnataka,Metal,348.92,296.66,222.66,134.72
+2021,Karnataka,Textile,443.43,351.56,224.88,72.77
+2021,Karnataka,E-Waste,233.76,174.42,106.75,55.11
+2021,Karnataka,Construction,475.28,354.15,235.77,43.7
+2021,Karnataka,Biomedical,185.4,146.98,105.96,26.79
+2021,Karnataka,Other,402.49,311.68,214.0,40.54
+2021,Tamil Nadu,Organic,2327.84,2040.83,1641.29,676.2
+2021,Tamil Nadu,Plastic,994.46,841.22,578.91,271.5
+2021,Tamil Nadu,Paper,641.03,540.03,403.67,234.0
+2021,Tamil Nadu,Glass,478.55,408.75,289.92,173.62
+2021,Tamil Nadu,Metal,411.26,346.14,268.52,165.05
+2021,Tamil Nadu,Textile,488.49,399.34,251.37,78.74
+2021,Tamil Nadu,E-Waste,259.94,195.62,122.09,69.34
+2021,Tamil Nadu,Construction,518.29,397.51,259.21,47.76
+2021,Tamil Nadu,Biomedical,207.5,170.87,118.81,31.89
+2021,Tamil Nadu,Other,480.42,376.29,255.4,49.14
+2021,Rajasthan,Organic,1523.26,988.52,651.66,239.89
+2021,Rajasthan,Plastic,629.31,400.86,219.62,107.5
+2021,Rajasthan,Paper,433.55,275.43,163.12,91.93
+2021,Rajasthan,Glass,313.41,200.64,115.33,70.1
+2021,Rajasthan,Metal,269.21,170.21,103.62,62.48
+2021,Rajasthan,Textile,303.11,181.2,97.39,28.24
+2021,Rajasthan,E-Waste,189.25,105.39,53.53,29.4
+2021,Rajasthan,Construction,361.19,205.92,109.62,23.21
+2021,Rajasthan,Biomedical,127.68,78.21,43.73,11.23
+2021,Rajasthan,Other,318.03,185.07,104.05,18.38
+2021,Uttar Pradesh,Organic,2745.43,1625.42,954.81,376.83
+2021,Uttar Pradesh,Plastic,1202.64,674.82,345.86,142.37
+2021,Uttar Pradesh,Paper,869.9,493.89,276.32,160.7
+2021,Uttar Pradesh,Glass,568.39,322.95,167.01,91.49
+2021,Uttar Pradesh,Metal,518.51,293.46,165.68,100.86
+2021,Uttar Pradesh,Textile,593.65,318.25,148.42,42.03
+2021,Uttar Pradesh,E-Waste,344.02,172.1,78.28,40.27
+2021,Uttar Pradesh,Construction,713.2,370.02,178.55,37.78
+2021,Uttar Pradesh,Biomedical,248.65,135.69,69.14,16.88
+2021,Uttar Pradesh,Other,569.76,297.52,152.9,28.0
+2021,Gujarat,Organic,1893.31,1723.41,1494.67,566.64
+2021,Gujarat,Plastic,781.67,673.13,498.37,244.92
+2021,Gujarat,Paper,573.2,508.78,397.85,219.66
+2021,Gujarat,Glass,407.13,370.28,270.83,152.08
+2021,Gujarat,Metal,348.19,317.72,247.14,160.86
+2021,Gujarat,Textile,413.97,350.29,228.93,66.98
+2021,Gujarat,E-Waste,230.0,181.6,116.01,58.84
+2021,Gujarat,Construction,483.19,393.72,263.98,51.67
+2021,Gujarat,Biomedical,170.83,153.61,106.88,28.73
+2021,Gujarat,Other,440.63,370.75,260.62,48.91
+2021,Odisha,Organic,1180.01,812.99,584.64,218.29
+2021,Odisha,Plastic,461.21,305.07,183.98,86.77
+2021,Odisha,Paper,326.9,218.98,142.87,77.32
+2021,Odisha,Glass,241.75,163.85,101.13,66.98
+2021,Odisha,Metal,202.18,135.45,90.57,57.22
+2021,Odisha,Textile,243.68,153.59,87.87,26.93
+2021,Odisha,E-Waste,138.1,81.18,44.82,25.92
+2021,Odisha,Construction,271.01,164.07,94.31,19.09
+2021,Odisha,Biomedical,98.87,66.09,39.07,9.64
+2021,Odisha,Other,225.13,142.72,81.82,14.58
+2021,West Bengal,Organic,2185.92,1619.1,1176.82,445.59
+2021,West Bengal,Plastic,941.78,688.52,414.65,198.66
+2021,West Bengal,Paper,658.02,482.96,311.15,177.36
+2021,West Bengal,Glass,437.25,314.08,193.71,116.53
+2021,West Bengal,Metal,394.25,291.38,187.58,120.56
+2021,West Bengal,Textile,463.35,321.03,180.94,54.06
+2021,West Bengal,E-Waste,253.17,159.01,88.1,48.64
+2021,West Bengal,Construction,525.31,345.11,198.56,35.74
+2021,West Bengal,Biomedical,196.34,136.64,84.15,22.0
+2021,West Bengal,Other,438.9,290.66,176.37,32.3
+2022,Telangana,Organic,1876.2,1538.15,1166.48,465.38
+2022,Telangana,Plastic,777.98,625.69,389.78,160.0
+2022,Telangana,Paper,565.66,446.39,306.39,186.11
+2022,Telangana,Glass,395.57,316.38,203.15,121.04
+2022,Telangana,Metal,311.23,245.32,171.31,112.1
+2022,Telangana,Textile,368.98,276.39,162.72,46.28
+2022,Telangana,E-Waste,221.93,153.4,88.92,50.41
+2022,Telangana,Construction,443.84,316.57,189.91,35.98
+2022,Telangana,Biomedical,166.45,128.22,83.1,20.13
+2022,Telangana,Other,432.94,315.94,197.49,38.95
+2022,Maharashtra,Organic,2740.54,2515.07,2086.89,785.46
+2022,Maharashtra,Plastic,1150.32,1019.77,716.1,347.46
+2022,Maharashtra,Paper,816.64,737.36,557.99,320.25
+2022,Maharashtra,Glass,565.79,501.58,363.57,223.55
+2022,Maharashtra,Metal,468.92,417.37,326.08,203.69
+2022,Maharashtra,Textile,567.87,487.11,306.48,93.62
+2022,Maharashtra,E-Waste,307.55,243.0,153.06,94.3
+2022,Maharashtra,Construction,626.96,503.81,338.52,67.51
+2022,Maharashtra,Biomedical,233.05,202.66,142.43,35.97
+2022,Maharashtra,Other,554.76,465.5,321.6,60.93
+2022,Kerala,Organic,1502.34,1407.96,1266.07,507.7
+2022,Kerala,Plastic,534.85,499.23,378.2,192.31
+2022,Kerala,Paper,418.57,393.1,320.97,182.17
+2022,Kerala,Glass,269.97,254.7,191.47,108.32
+2022,Kerala,Metal,241.2,223.94,183.1,122.79
+2022,Kerala,Textile,297.03,258.26,184.52,52.18
+2022,Kerala,E-Waste,163.87,131.92,92.04,51.39
+2022,Kerala,Construction,314.67,267.64,185.61,35.72
+2022,Kerala,Biomedical,119.56,108.9,80.7,20.11
+2022,Kerala,Other,292.93,251.91,185.67,33.97
+2022,Karnataka,Organic,2076.48,1827.03,1472.58,568.57
+2022,Karnataka,Plastic,884.1,733.66,516.79,253.29
+2022,Karnataka,Paper,627.75,542.17,393.39,233.82
+2022,Karnataka,Glass,428.72,361.46,257.19,157.81
+2022,Karnataka,Metal,404.27,343.16,262.15,160.55
+2022,Karnataka,Textile,448.46,364.1,233.39,73.39
+2022,Karnataka,E-Waste,232.93,172.82,111.16,64.78
+2022,Karnataka,Construction,504.67,389.9,251.59,47.23
+2022,Karnataka,Biomedical,183.67,154.12,107.16,27.59
+2022,Karnataka,Other,451.81,356.17,243.62,45.39
+2022,Tamil Nadu,Organic,2342.08,2114.75,1736.79,650.16
+2022,Tamil Nadu,Plastic,987.92,844.8,605.96,310.87
+2022,Tamil Nadu,Paper,721.02,642.12,464.46,253.53
+2022,Tamil Nadu,Glass,510.98,455.31,319.94,193.17
+2022,Tamil Nadu,Metal,407.24,346.13,272.5,167.49
+2022,Tamil Nadu,Textile,490.14,403.3,263.4,79.08
+2022,Tamil Nadu,E-Waste,278.69,215.39,134.88,70.12
+2022,Tamil Nadu,Construction,553.84,439.03,296.14,54.96
+2022,Tamil Nadu,Biomedical,225.68,192.42,132.94,35.88
+2022,Tamil Nadu,Other,502.98,405.81,278.12,47.94
+2022,Rajasthan,Organic,1505.54,1002.65,665.26,240.27
+2022,Rajasthan,Plastic,669.38,431.03,242.74,103.97
+2022,Rajasthan,Paper,497.66,332.33,193.48,103.01
+2022,Rajasthan,Glass,335.99,219.68,127.44,71.41
+2022,Rajasthan,Metal,263.17,172.24,107.24,71.95
+2022,Rajasthan,Textile,318.78,196.11,101.48,31.98
+2022,Rajasthan,E-Waste,193.52,109.89,55.44,29.44
+2022,Rajasthan,Construction,361.42,212.62,113.27,25.21
+2022,Rajasthan,Biomedical,141.13,89.57,49.93,13.1
+2022,Rajasthan,Other,333.07,200.42,112.06,19.84
+2022,Uttar Pradesh,Organic,2868.61,1705.61,1036.37,344.6
+2022,Uttar Pradesh,Plastic,1218.26,717.39,353.48,189.11
+2022,Uttar Pradesh,Paper,773.08,458.17,249.74,127.81
+2022,Uttar Pradesh,Glass,588.51,340.32,182.0,100.22
+2022,Uttar Pradesh,Metal,518.57,305.4,166.97,108.81
+2022,Uttar Pradesh,Textile,583.74,319.85,150.77,50.75
+2022,Uttar Pradesh,E-Waste,368.73,182.99,86.67,50.97
+2022,Uttar Pradesh,Construction,662.68,344.8,167.85,34.52
+2022,Uttar Pradesh,Biomedical,257.57,141.65,74.85,19.27
+2022,Uttar Pradesh,Other,613.19,328.9,169.74,31.86
+2022,Gujarat,Organic,2141.12,2003.57,1721.22,678.88
+2022,Gujarat,Plastic,797.12,737.7,521.53,253.85
+2022,Gujarat,Paper,623.91,580.07,434.98,240.49
+2022,Gujarat,Glass,419.8,383.8,281.59,168.42
+2022,Gujarat,Metal,347.34,321.56,251.74,150.19
+2022,Gujarat,Textile,426.44,360.91,252.67,74.74
+2022,Gujarat,E-Waste,241.47,194.51,125.66,63.26
+2022,Gujarat,Construction,469.52,394.07,265.49,52.84
+2022,Gujarat,Biomedical,180.29,157.31,116.17,27.61
+2022,Gujarat,Other,413.99,356.93,253.7,43.15
+2022,Odisha,Organic,1209.24,858.23,633.92,243.05
+2022,Odisha,Plastic,507.44,346.09,210.36,108.0
+2022,Odisha,Paper,373.91,263.62,166.43,95.74
+2022,Odisha,Glass,237.23,168.78,102.66,56.76
+2022,Odisha,Metal,228.42,158.54,105.45,62.15
+2022,Odisha,Textile,231.03,152.21,86.51,27.17
+2022,Odisha,E-Waste,140.95,85.07,46.94,24.55
+2022,Odisha,Construction,289.24,179.88,102.57,20.28
+2022,Odisha,Biomedical,107.32,72.75,43.99,11.3
+2022,Odisha,Other,242.57,154.27,93.8,16.07
+2022,West Bengal,Organic,2299.38,1746.35,1279.9,488.92
+2022,West Bengal,Plastic,937.29,685.74,426.22,190.94
+2022,West Bengal,Paper,667.2,504.06,327.77,174.85
+2022,West Bengal,Glass,491.06,366.56,230.55,140.54
+2022,West Bengal,Metal,413.86,311.54,208.71,119.09
+2022,West Bengal,Textile,465.31,326.12,186.1,57.06
+2022,West Bengal,E-Waste,281.08,182.54,100.5,55.22
+2022,West Bengal,Construction,550.86,367.2,212.92,43.76
+2022,West Bengal,Biomedical,210.19,150.64,94.03,23.77
+2022,West Bengal,Other,487.38,337.74,199.51,38.36

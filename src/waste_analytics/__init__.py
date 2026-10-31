@@ -1,0 +1,1 @@
+"""Waste Management Analytics System."""
